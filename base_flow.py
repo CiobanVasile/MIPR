@@ -4,6 +4,7 @@ import joblib
 nlp = spacy.load("ro_core_news_sm")
 
 questions = [
+    "Cat de des mergi la toaleta?"
     "Cât de des ai dureri de cap?",
     "Ai dificultăți în respirație?",
     "Cum te simți în legătură cu starea ta emoțională?",
